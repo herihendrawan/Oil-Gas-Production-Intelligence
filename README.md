@@ -58,6 +58,10 @@ Data telah melalui proses data cleaning dan preprocessing sebelum digunakan dala
 - Scikit-learn
 - DuckDB
 
+## 📸 Dashboard Preview
+
+![Oil & Gas Production Intelligence Dashboard](assets/dashboard.png)
+
 ## 📈 Dashboard Features
 
 ### 1. Production KPI
